@@ -1,4 +1,4 @@
-README - Automação de Cobrança por E-mail
+Automação de Cobrança por E-mail
 Este script em Python foi desenvolvido para automatizar o processo de cobrança de clientes em atraso por meio do Microsoft Outlook. Ele utiliza a biblioteca win32com.client para interagir com o Outlook e a biblioteca pandas para manipulação de dados no formato Excel.
 
 Requisitos
